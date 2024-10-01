@@ -1,0 +1,3 @@
+C:/Users/niewi/Downloads/Desktop-Apps-2024-2025/Nodes_C/cmake-build-debug/CMakeFiles/Nodes_C.dir
+C:/Users/niewi/Downloads/Desktop-Apps-2024-2025/Nodes_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/niewi/Downloads/Desktop-Apps-2024-2025/Nodes_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
