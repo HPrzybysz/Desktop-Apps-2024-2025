@@ -1,6 +1,6 @@
 ﻿namespace Cezary
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -32,7 +32,7 @@
             }
         }
 
-        static string Cezar(string toCode, int key)
+        public static string Cezar(string toCode, int key)
         {
             key = key % 26;
             if(key < 0)
